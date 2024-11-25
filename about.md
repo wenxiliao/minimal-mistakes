@@ -19,5 +19,5 @@ Welcome to my academic website! My research focuses on:
 - **HBSc**, Double Majors in Forest Conservation and Physical and Environmental Geography and Minor in GIS, University of Toronto
 
 ## Contact
-- Email: wenxi.liao@mail.mcgill.ca (mailto:wenxi.liao@mail.mcgill.ca)
+- Email: wenxi.liao@mail.mcgill.ca
 - LinkedIn: Wenxi Liao (https://www.linkedin.com/in/wenxi-liao-phd-0b2a45122/)
