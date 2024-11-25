@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 ---
 
-# Publications
 
 ## Journal Articles
 9. **Frizzi, G., Liao, W., Drake, J. (in revision). Winter snowpack accumulation and stormwater water quality monitoring for extensive green roof systems. Journal of Cold Regions Engineering.**
