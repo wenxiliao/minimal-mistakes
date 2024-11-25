@@ -21,7 +21,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Wenxi Liao"
-description              : "An amazing website."
+description              : "Wenxi's Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Wenxi Liao"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an NSERC Postdoctoral Researcher at the McGill Univerrsity."
+  bio              : "I am an NSERC Postdoctoral Researcher at the McGill University."
   location         : "Montreal, Canada"
   email            : "wenxi.liao@mail.mcgill.ca"
   links:
