@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Wenxi Liao](assets/IMG_6108.JPG)
+![Wenxi Liao](assets/images/heatshot.jpg)
 
 
 Welcome to my academic website! My research focuses on:
