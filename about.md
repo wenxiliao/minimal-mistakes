@@ -4,7 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
 
 Welcome to my academic website! My research focuses on:
 
