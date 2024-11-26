@@ -15,7 +15,7 @@ permalink: /projects/
 ## Research theme 2: Plant performance
 - **Description**: Engineered biochar amendment to support better plant growth and health in green infrastructure and urban soils.
 - **Methods**: Experimental
-- **Link**: [Liao et al. (2022)](http://dx.doi.org/10.1016/j.scitotenv.2021.152638); [Liao et al. (2019)](http://doi:10.3390/soilsystems3010014); [Tang et al. (2023)](https://doi.org/10.3390/agronomy13051394)
+- **Link**: [Liao et al. (2022)](http://dx.doi.org/10.1016/j.scitotenv.2021.152638); [Liao et al. (2019)](https://doi.org/10.3390/soilsystems3010014); [Tang et al. (2023)](https://doi.org/10.3390/agronomy13051394)
 
 ## Research theme 3: Ecosystem functions
 - **Description**: Understand overall ecosystem functions of green infrastructure including system erosion, greenhouse gas emissions, and microbial responses.
