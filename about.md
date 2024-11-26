@@ -4,10 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Wenxi Liao](assets/images/headshot.jpg)
-
-
-Welcome to my academic website! 
+## About me
 
 I am an NSERC Postdoctoral Fellow in the Department of Chemical Engineering at McGill University, where my research focuses on nature-based solutions for emerging environmental challenges. I hold a PhD from the Institute of Forestry and Conservation and the Department of Civil & Mineral Engineering at the University of Toronto. Prior to my doctoral studies, I received an Honours Bachelor of Science (HBSc) with High Distinction from the University of Toronto (2015–2019), completing a double major in Forest Conservation and Physical Geography, alongside a minor in Geographic Information Systems (GIS).
 
@@ -31,4 +28,3 @@ In addition to research,  I am passionate about teaching. I taught a core underg
 
 ## Contact
 - Email: wenxi.liao@mail.mcgill.ca
-- LinkedIn: Wenxi Liao (https://www.linkedin.com/in/wenxi-liao-phd-0b2a45122/)
