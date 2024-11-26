@@ -4,7 +4,7 @@ title: "About Me"
 permalink: /about/
 ---
 
-[Wenxi Liao](assets/images/headshot.jpg)
+![Wenxi Liao](assets/images/headshot.jpg)
 
 
 Welcome to my academic website! 
