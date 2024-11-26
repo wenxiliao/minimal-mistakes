@@ -122,8 +122,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "wenxi.liao@mail.mcgill.ca"
-    - # label: "Google Scholar"
-      # icon: 
+    - label: "Google Scholar"
+      icon: "/assets/images/GoogleScholarIcon.png"
+      url: "https://scholar.google.ca/citations?user=VB55UHsAAAAJ&hl=en&oi=ao"
     - # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -145,9 +146,12 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      url: "https://x.com/WenxiLiao"
+    - label: "Google Scholar"
+      icon: "/assets/images/GoogleScholarIcon.png"
+      url: "https://scholar.google.ca/citations?user=VB55UHsAAAAJ&hl=en&oi=ao"
+    - # label: "Facebook"
+      # icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
