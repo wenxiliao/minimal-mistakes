@@ -20,6 +20,9 @@ permalink: /projects/
 ## Research theme 3: Ecosystem functions
 - **Description**: Understand overall ecosystem functions of green infrastructure including system erosion, greenhouse gas emissions, and microbial responses.
 - **Methods**: Experiment and data science (e.g., meta-analysis)
-**Link**: [Liao et al. (2023)](https://doi.org/10.1021/acs.est.3c04185); [Liao et al. (2022)](https://doi.org/10.1007/s42773-022-00186-7)
+- **Link**: [Liao et al. (2023)](https://doi.org/10.1021/acs.est.3c04185); [Liao et al. (2022)](https://doi.org/10.1007/s42773-022-00186-7)
 
 ## Research theme 4: Large-scale monitoring and simulations
+- **Description**: Assess and analyze green infrastructure performance at large scales.
+- **Methods**: Remote sensing and geospatial analysis
+- **Link**: [Liao et al. (in preparation)]
